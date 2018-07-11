@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="fr-ca">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="f5408c82b397184583023879363d73b64446a74f">
+        <source>Man must explore, and this is exploration at its greatest</source>
+        <target>L'homme doit explorer, et c'est l'exploration à son meilleur</target>
+      </trans-unit>
+      <trans-unit id="7b0f03973121550aa2dade7675ed2a3c37cef22d">
+        <source>Problems look mighty small from 150 miles up</source>
+        <target>Les problèmes semblent puissants à partir de 150 miles</target>
+      </trans-unit>
+      <trans-unit id="9ca6b1068d10ae9c1ffb4607e938a1bcbcd0a994">
+        <source>Posted by</source>
+        <target>posté par</target>
+      </trans-unit>
+      <trans-unit id="3a55852b102814b508e4766c9dc08091e7baa5f5">
+        <source>Start Bootstrap</source>
+        <target>Démarrer Bootstrap</target>
+      </trans-unit>
+      <trans-unit id="d65836e4388d7b9b41263740ea5165c85f9c99f3">
+        <source>on September 24, 2014</source>
+        <target>le 24 septembre 2014</target>
+      </trans-unit>
+      <trans-unit id="6d036a2c58ca874ba021fa7268afbf9bbe8d1613">
+        <source>I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.</source>
+        <target>Je crois que chaque humain a un nombre fini de battements de coeur. Je n'ai pas l'intention de perdre l'un des miens.</target>
+      </trans-unit>
+      <trans-unit id="0e9cdb1486f62751f14196aa6836d2b02b8483ae">
+        <source>on September</source>
+        <target>en septembre</target>
+      </trans-unit>
+      <trans-unit id="47d3160e8f211a95d9beb4586287c2555ab08fbd">
+        <source>Science has not yet mastered prophecy</source>
+        <target>La science n'a pas encore maîtrisé la prophétie</target>
+      </trans-unit>
+      <trans-unit id="5c93b01eb307144fcac4ef51e815d7d90a532d7e">
+        <source>We predict too much for the next year and yet far too little for the next ten.</source>
+        <target>Nous prédisons trop pour l'année prochaine et encore trop peu pour les dix prochaines.</target>
+      </trans-unit>
+      <trans-unit id="354ff2eb33f0722d94f94a09032229c164ca4eaf">
+        <source>on August</source>
+        <target>en août</target>
+      </trans-unit>
+      <trans-unit id="c5468bc08180ffe92b16ebc77173f7e13b621a91">
+        <source>Failure is not an option</source>
+        <target>L'échec n'est pas une option</target>
+      </trans-unit>
+      <trans-unit id="9ad8d16cf731b464b2c2d0eb7b87143a19ebe16a">
+        <source>Many say exploration is part of our destiny, but it’s actually our duty to future generations.</source>
+        <target>Beaucoup disent que l'exploration fait partie de notre destin, mais c'est en fait notre devoir envers les générations futures.</target>
+      </trans-unit>
+      <trans-unit id="0425565aa24cde8f6e51bed7648156e98bf66e63">
+        <source>on July</source>
+        <target>en juillet</target>
+      </trans-unit>
+      <trans-unit id="0ld3rP0sts">
+        <source>Older Posts →</source>
+        <target>Messages plus anciens →</target>
+      </trans-unit>
+      <trans-unit id="07a8d72a4d09ee6d636cdf75c85d42bb7759fdf4">
+        <source>Copyright © Your Website 2016</source>
+        <target>Copyright © Votre site Web 2016</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
