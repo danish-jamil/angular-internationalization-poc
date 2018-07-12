@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="fr-CA">
+    <body>
+      <trans-unit id="32072c7fb0469aaf82d256a59b3e0d6ecce973b9" datatype="html" approved="yes">
+        <source>Currency</source>
+        <target xml:lang="fr-CA">Devise</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2f933b826a570836cab04f683970a2d22068458c" datatype="html" approved="yes">
+        <source>Date</source>
+        <target xml:lang="fr-CA">Rendez-vous amoureux</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f5408c82b397184583023879363d73b64446a74f" datatype="html" approved="yes">
+        <source>Man must explore, and this is exploration at its greatest</source>
+        <target xml:lang="fr-CA">Lhomme doit explorer, et cest lexploration à son meilleur</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7b0f03973121550aa2dade7675ed2a3c37cef22d" datatype="html" approved="yes">
+        <source>Problems look mighty small from 150 miles up</source>
+        <target xml:lang="fr-CA">Les problèmes semblent puissants à partir de 150 miles</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9ca6b1068d10ae9c1ffb4607e938a1bcbcd0a994" datatype="html" approved="yes">
+        <source>Posted by</source>
+        <target xml:lang="fr-CA">posté par</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3a55852b102814b508e4766c9dc08091e7baa5f5" datatype="html" approved="yes">
+        <source>Start Bootstrap</source>
+        <target xml:lang="fr-CA">Démarrer Bootstrap</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d65836e4388d7b9b41263740ea5165c85f9c99f3" datatype="html" approved="yes">
+        <source>on September 24, 2014</source>
+        <target xml:lang="fr-CA">le 24 septembre 2014</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6d036a2c58ca874ba021fa7268afbf9bbe8d1613" datatype="html" approved="yes">
+        <source>I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.</source>
+        <target xml:lang="fr-CA">Je crois que chaque humain a un nombre fini de battements de coeur. Je nai pas lintention de perdre lun des miens.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0e9cdb1486f62751f14196aa6836d2b02b8483ae" datatype="html" approved="yes">
+        <source>on September</source>
+        <target xml:lang="fr-CA">en septembre</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="47d3160e8f211a95d9beb4586287c2555ab08fbd" datatype="html" approved="yes">
+        <source>Science has not yet mastered prophecy</source>
+        <target xml:lang="fr-CA">La science na pas encore maîtrisé la prophétie</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5c93b01eb307144fcac4ef51e815d7d90a532d7e" datatype="html" approved="yes">
+        <source>We predict too much for the next year and yet far too little for the next ten.</source>
+        <target xml:lang="fr-CA">Nous prédisons trop pour lannée prochaine et encore trop peu pour les dix prochaines.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="354ff2eb33f0722d94f94a09032229c164ca4eaf" datatype="html" approved="yes">
+        <source>on August</source>
+        <target xml:lang="fr-CA">en août</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c5468bc08180ffe92b16ebc77173f7e13b621a91" datatype="html" approved="yes">
+        <source>Failure is not an option</source>
+        <target xml:lang="fr-CA">Léchec nest pas une option</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9ad8d16cf731b464b2c2d0eb7b87143a19ebe16a" datatype="html" approved="yes">
+        <source>Many say exploration is part of our destiny, but it’s actually our duty to future generations.</source>
+        <target xml:lang="fr-CA">Beaucoup disent que lexploration fait partie de notre destin, mais cest en fait notre devoir envers les générations futures.</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0425565aa24cde8f6e51bed7648156e98bf66e63" datatype="html" approved="yes">
+        <source>on July</source>
+        <target xml:lang="fr-CA">en juillet</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0ld3rP0sts" datatype="html" approved="yes">
+        <source>Older Posts →</source>
+        <target xml:lang="fr-CA">Messages plus anciens →</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07a8d72a4d09ee6d636cdf75c85d42bb7759fdf4" datatype="html" approved="yes">
+        <source>Copyright © Your Website 2016</source>
+        <target xml:lang="fr-CA">Copyright © Votre site Web 2016</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="27077ae2e8abad06bec5f82008b154b765fb5068" datatype="html" approved="yes">
+        <source>Updated: <x id="ICU" equiv-text="{minutes, plural, =0 {...} =1 {...} other {...}}"/></source>
+        <target xml:lang="fr-CA">Actualisé: <x id="ICU" equiv-text="{minutes, plural, =0 {...} =1 {...} other {...}}"/></target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/post/post.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7151c2e67748b726f0864fc443861d45df21d706" datatype="html" approved="yes">
+        <source>{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {<x id="INTERPOLATION" equiv-text="{{minutes}}"/> minutes ago by {VAR_SELECT, select, male {male} female {female} other {other} }} }</source>
+        <target xml:lang="fr-CA">{VAR_PLURAL, plural, =0 {juste maintenant} =1 {il y a une minute} other {<x id="INTERPOLATION" equiv-text="{{minutes}}"/>il y a quelques minutes par {VAR_SELECT, select, male {male} female {female} other {other} }} }</target>
+<context-group purpose="location">
+          <context context-type="sourcefile">app/post/post.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

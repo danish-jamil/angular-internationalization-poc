@@ -3,12 +3,12 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <div class="post-preview">
-        <a href="">
-          <h2 class="post-title">
-            <p>Currency: {{29.99 | currency:'CAD':'symbol-narrow':'2.2-2'}}</p>
-            <p>Date: {{'07-11-2018' | date}}</p>
-          </h2>
-        </a>
+        <h2 class="post-title">
+          <p>
+            <ng-container i18n>Currency</ng-container>: {{129.99 | currency:'USD':'symbol-narrow':'2.2-2'}}</p>
+        </h2>
+        <h3 class="post-subtitle">
+          <ng-container i18n>Date</ng-container>: {{'07-11-2018' | date}}</h3>
       </div>
       <div class="post-preview">
         <a [routerLink]="['/post']">
