@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE messagebundle [
+<!ELEMENT messagebundle (msg)*>
+<!ATTLIST messagebundle class CDATA #IMPLIED>
+
+<!ELEMENT msg (#PCDATA|ph|source)*>
+<!ATTLIST msg id CDATA #IMPLIED>
+<!ATTLIST msg seq CDATA #IMPLIED>
+<!ATTLIST msg name CDATA #IMPLIED>
+<!ATTLIST msg desc CDATA #IMPLIED>
+<!ATTLIST msg meaning CDATA #IMPLIED>
+<!ATTLIST msg obsolete (obsolete) #IMPLIED>
+<!ATTLIST msg xml:space (default|preserve) "default">
+<!ATTLIST msg is_hidden CDATA #IMPLIED>
+
+<!ELEMENT source (#PCDATA)>
+
+<!ELEMENT ph (#PCDATA|ex)*>
+<!ATTLIST ph name CDATA #REQUIRED>
+
+<!ELEMENT ex (#PCDATA)>
+]>
+<messagebundle>
+  <msg id="4327471061205783634"><source>app/home/home.component.ts:9</source>Currency</msg>
+  <msg id="3973931101896534797"><source>app/home/home.component.ts:13</source>Date</msg>
+  <msg id="postTitle" desc="this is the description of post title" meaning="this is the meaning of post title"><source>app/home/home.component.ts:18,20</source>
+            Man must explore, and this is exploration at its greatest
+          </msg>
+  <msg id="1495877989165111871"><source>app/home/home.component.ts:21,23</source>
+            Problems look mighty small from 150 miles up
+          </msg>
+  <msg id="6629130724635125976"><source>app/home/home.component.ts:26</source><source>app/home/home.component.ts:39</source><source>app/home/home.component.ts:55</source><source>app/home/home.component.ts:71</source>Posted by</msg>
+  <msg id="5118079262230689123"><source>app/home/home.component.ts:27</source><source>app/home/home.component.ts:40</source><source>app/home/home.component.ts:56</source><source>app/home/home.component.ts:72</source>Start Bootstrap</msg>
+  <msg id="7482129530602601948"><source>app/home/home.component.ts:28</source>on September 24, 2014</msg>
+  <msg id="5553835130424195539"><source>app/home/home.component.ts:34,36</source>
+            I believe every human has a finite number of heartbeats. I don&apos;t intend to waste any of mine.
+          </msg>
+  <msg id="6931527889227464311"><source>app/home/home.component.ts:41</source>on September</msg>
+  <msg id="6908398804397875910"><source>app/home/home.component.ts:47,49</source>
+            Science has not yet mastered prophecy
+          </msg>
+  <msg id="2929608297649180670"><source>app/home/home.component.ts:50,52</source>
+            We predict too much for the next year and yet far too little for the next ten.
+          </msg>
+  <msg id="1963794334651403055"><source>app/home/home.component.ts:57</source>on August</msg>
+  <msg id="5915154785087770155"><source>app/home/home.component.ts:63,65</source>
+            Failure is not an option
+          </msg>
+  <msg id="739676541408408682"><source>app/home/home.component.ts:66,68</source>
+            Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+          </msg>
+  <msg id="5436430654283880183"><source>app/home/home.component.ts:73</source>on July</msg>
+  <msg id="0ld3rP0sts"><source>app/home/home.component.ts:80</source>Older Posts →</msg>
+  <msg id="8468500383556944594"><source>app/home/home.component.ts:94</source>Copyright © Your Website 2016</msg>
+  <msg id="toastTitle"><source>app/home/home.component.ts:101</source>Success</msg>
+  <msg id="toastMessage"><source>app/home/home.component.ts:102</source>Data has been successfully updated.</msg>
+  <msg id="3674685153096698202"><source>app/post/post.component.ts:10,12</source>Updated: <ph name="ICU"><ex>{minutes, plural, =0 {...} =1 {...} other {...}}</ex></ph>
+          </msg>
+  <msg id="706522873846283432"><source>app/post/post.component.ts:10,11</source>{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {<ph name="INTERPOLATION"><ex>{{minutes}}</ex></ph> minutes ago by {VAR_SELECT, select, male {male} female {female} other {other} }} }</msg>
+</messagebundle>

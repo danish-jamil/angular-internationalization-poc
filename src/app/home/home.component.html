@@ -2,17 +2,20 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <button class="btn btn-primary" (click)="showToaster()">Show toaster</button>
       <div class="post-preview">
         <h2 class="post-title">
           <p>
-            <ng-container i18n>Currency</ng-container>: {{129.99 | currency:'USD':'symbol-narrow':'2.2-2'}}</p>
+            <ng-container i18n>Currency</ng-container>: {{129.99 | currency:'USD':'symbol-narrow':'2.2-2'}}
+          </p>
         </h2>
         <h3 class="post-subtitle">
-          <ng-container i18n>Date</ng-container>: {{'07-11-2018' | date}}</h3>
+          <ng-container i18n>Date</ng-container>: {{'07-11-2018' | date}}
+        </h3>
       </div>
       <div class="post-preview">
-        <a [routerLink]="['/post']">
-          <h2 class="post-title" i18n>
+        <a routerLink="/post">
+          <h2 class="post-title" i18n="this is the meaning of post title|this is the description of post title@@postTitle">
             Man must explore, and this is exploration at its greatest
           </h2>
           <h3 class="post-subtitle" i18n>
@@ -93,3 +96,8 @@
     </div>
   </div>
 </footer>
+
+<div appTransUnit hidden>
+  <span id="toastTitle" i18n="@@toastTitle">Success</span>
+  <span id="toastMessage" i18n="@@toastMessage">Data has been successfully updated.</span>
+</div>

@@ -6,14 +6,14 @@
         <source>Currency</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">8</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2f933b826a570836cab04f683970a2d22068458c" datatype="html">
         <source>Date</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">12</context>
+          <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="postTitle" datatype="html">
@@ -22,7 +22,7 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">17</context>
+          <context context-type="linenumber">18</context>
         </context-group>
         <note priority="1" from="description">this is the description of post title</note>
         <note priority="1" from="meaning">this is the meaning of post title</note>
@@ -33,30 +33,11 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9ca6b1068d10ae9c1ffb4607e938a1bcbcd0a994" datatype="html">
         <source>Posted by</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">25</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">38</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">54</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">70</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="3a55852b102814b508e4766c9dc08091e7baa5f5" datatype="html">
-        <source>Start Bootstrap</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
           <context context-type="linenumber">26</context>
@@ -74,11 +55,30 @@
           <context context-type="linenumber">71</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="3a55852b102814b508e4766c9dc08091e7baa5f5" datatype="html">
+        <source>Start Bootstrap</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="d65836e4388d7b9b41263740ea5165c85f9c99f3" datatype="html">
         <source>on September 24, 2014</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6d036a2c58ca874ba021fa7268afbf9bbe8d1613" datatype="html">
@@ -87,14 +87,14 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="0e9cdb1486f62751f14196aa6836d2b02b8483ae" datatype="html">
         <source>on September</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">40</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="47d3160e8f211a95d9beb4586287c2555ab08fbd" datatype="html">
@@ -103,7 +103,7 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5c93b01eb307144fcac4ef51e815d7d90a532d7e" datatype="html">
@@ -112,14 +112,14 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">49</context>
+          <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="354ff2eb33f0722d94f94a09032229c164ca4eaf" datatype="html">
         <source>on August</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="c5468bc08180ffe92b16ebc77173f7e13b621a91" datatype="html">
@@ -128,7 +128,7 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">62</context>
+          <context context-type="linenumber">63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9ad8d16cf731b464b2c2d0eb7b87143a19ebe16a" datatype="html">
@@ -137,28 +137,42 @@
           </source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">65</context>
+          <context context-type="linenumber">66</context>
         </context-group>
       </trans-unit>
       <trans-unit id="0425565aa24cde8f6e51bed7648156e98bf66e63" datatype="html">
         <source>on July</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">72</context>
+          <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit>
       <trans-unit id="0ld3rP0sts" datatype="html">
         <source>Older Posts →</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">79</context>
+          <context context-type="linenumber">80</context>
         </context-group>
       </trans-unit>
       <trans-unit id="07a8d72a4d09ee6d636cdf75c85d42bb7759fdf4" datatype="html">
         <source>Copyright © Your Website 2016</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/home/home.component.ts</context>
-          <context context-type="linenumber">93</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="toastTitle" datatype="html">
+        <source>Success</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="toastMessage" datatype="html">
+        <source>Data has been successfully updated.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/home/home.component.ts</context>
+          <context context-type="linenumber">102</context>
         </context-group>
       </trans-unit>
       <trans-unit id="27077ae2e8abad06bec5f82008b154b765fb5068" datatype="html">

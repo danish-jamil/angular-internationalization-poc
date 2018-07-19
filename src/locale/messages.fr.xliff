@@ -13,9 +13,10 @@
         <source>Date</source>
         <target>Rendez-vous amoureux</target>
       </trans-unit>
-      <trans-unit id="f5408c82b397184583023879363d73b64446a74f">
+      <trans-unit id="postTitle">
         <source>Man must explore, and this is exploration at its greatest</source>
-        <target>L'homme doit explorer, et c'est l'exploration à son meilleur</target>
+        <target>Man must explore, and this is exploration at its greatest</target>
+        <note>this is the description of post title\nthis is the meaning of post title</note>
       </trans-unit>
       <trans-unit id="7b0f03973121550aa2dade7675ed2a3c37cef22d">
         <source>Problems look mighty small from 150 miles up</source>
@@ -73,6 +74,14 @@
         <source>Copyright © Your Website 2016</source>
         <target>Copyright © Votre site Web 2016</target>
       </trans-unit>
+      <trans-unit id="toastTitle">
+        <source>Success</source>
+        <target>Successe</target>
+      </trans-unit>
+      <trans-unit id="toastMessage">
+        <source>Data has been successfully updated.</source>
+        <target>Les données ont été mises à jour avec succès.</target>
+      </trans-unit>
       <trans-unit id="27077ae2e8abad06bec5f82008b154b765fb5068">
         <source>Updated:</source>
         <target>Actualisé:</target>
@@ -80,17 +89,6 @@
       <trans-unit id="7151c2e67748b726f0864fc443861d45df21d706">
         <source>{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other { minutes ago by {VAR_SELECT, select, male {male} female {female} other {other} }} }</source>
         <target>{VAR_PLURAL, plural, =0 {il y a un instant} =1 {il y a une minute} other {minutes ago par {VAR_SELECT, select, male {male} female {female} other {other} }} }</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="" datatype="plaintext" xml:space="preserve" source-language="en-us" target-language="fr-ca">
-    <header>
-      <tool tool-id="poeditor.com" tool-name="POEditor"/>
-    </header>
-    <body>
-      <trans-unit id="J@d00">
-        <source>Dhoooooppp :O</source>
-        <target>lumière du soleil: O</target>
       </trans-unit>
     </body>
   </file>

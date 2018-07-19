@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE translationbundle [
+<!ELEMENT translationbundle (translation)*>
+<!ATTLIST translationbundle lang CDATA #REQUIRED>
+
+<!ELEMENT translation (#PCDATA|ph)*>
+<!ATTLIST translation id CDATA #REQUIRED>
+<!ATTLIST translation desc CDATA #IMPLIED>
+<!ATTLIST translation meaning CDATA #IMPLIED>
+<!ATTLIST translation xml:space (default|preserve) "default">
+
+<!ELEMENT ph (#PCDATA|ex)*>
+<!ATTLIST ph name CDATA #REQUIRED>
+
+<!ELEMENT ex (#PCDATA)>
+]>
+<translationbundle lang="fr-ca">
+  <translation id="4327471061205783634">Devise</translation>
+  <translation id="3973931101896534797">Rendez-vous amoureux</translation>
+  <translation id="postTitle" desc="this is the description of post title" meaning="this is the meaning of post title">Man must explore, and this is exploration at its greatest</translation>
+  <translation id="1495877989165111871">Problems look mighty small from 150 miles up</translation>
+  <translation id="6629130724635125976">posté par</translation>
+  <translation id="5118079262230689123">Démarrer Bootstrap</translation>
+  <translation id="7482129530602601948">le 24 septembre 2014</translation>
+  <translation id="5553835130424195539">I believe every human has a finite number of heartbeats. I don&apos;t intend to waste any of mine.</translation>
+  <translation id="6931527889227464311">en septembre</translation>
+  <translation id="6908398804397875910">Science has not yet mastered prophecy</translation>
+  <translation id="2929608297649180670">We predict too much for the next year and yet far too little for the next ten.</translation>
+  <translation id="1963794334651403055">en août</translation>
+  <translation id="5915154785087770155">Failure is not an option</translation>
+  <translation id="739676541408408682">Many say exploration is part of our destiny, but it’s actually our duty to future generations.</translation>
+  <translation id="5436430654283880183">en juillet</translation>
+  <translation id="0ld3rP0sts">Messages plus anciens →</translation>
+  <translation id="8468500383556944594">Copyright © Votre site Web 2016</translation>
+  <translation id="toastTitle">Successe</translation>
+  <translation id="toastMessage">Les données ont été mises à jour avec succès.</translation>
+  <translation id="3674685153096698202">Updated: <ph name="ICU"><ex>{minutes, plural, =0 {...} =1 {...} other {...}}</ex></ph></translation>
+  <translation id="706522873846283432">{VAR_PLURAL, plural, =0 {just now} =1 {one minute ago} other {<ph name="INTERPOLATION"><ex>{{minutes}}</ex></ph> minutes ago by {VAR_SELECT, select, male {male} female {female} other {other} }} }</translation>
+</translationbundle>
